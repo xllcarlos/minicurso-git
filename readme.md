@@ -4,8 +4,8 @@ Olá! Para registrar sua participação neste minicurso, por favor, adicione seu
 
 Depois de adicionar seu nome, você deverá fazer o **commit** da sua alteração e, em seguida, criar um **Pull Request**.
 
-Nome Completo:
+Nome Completo: Mariza de Jesus Oliveira
 
-Curso:
+Curso: Sistemas da Informação
 
-Instituição
+Instituição: Institito Federal de Sergipe Campus Lagarto
