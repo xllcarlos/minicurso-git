@@ -4,8 +4,9 @@ Olá! Para registrar sua participação neste minicurso, por favor, adicione seu
 
 Depois de adicionar seu nome, você deverá fazer o **commit** da sua alteração e, em seguida, criar um **Pull Request**.
 
-Nome Completo: Carlos Alberto Santana dos Santos
+Nome Completo: Flávia Karyne Santos Sena
 
 Curso: Bacharelado em Sistemas de Informação
 
 Instituição: Instituto Federal de Sergipe
+
